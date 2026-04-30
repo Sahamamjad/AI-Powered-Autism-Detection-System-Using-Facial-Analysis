@@ -59,4 +59,7 @@ TensorFlow / Keras
 OpenCV
 Scikit-learn
 Training Environment
-Kaggle GPU (P100)
+Kaggle GPU (P100)<img width="532" height="1087" alt="Screenshot 2026-04-30 at 13 47 44" src="https://github.com/user-attachments/assets/5e126972-3edc-4a61-8186-660f8256f466" /><img width="1275" height="624" alt="Screenshot 2026-04-30 at 13 48 13" src="https://github.com/user-attachments/assets/6b75697e-63b2-4f98-8c35-b31e3d7d6fd9" />
+
+
+
